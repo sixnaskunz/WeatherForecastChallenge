@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{36D9A467-3C57-448D-8859-59D16A6DBA0F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherForecastChallenge.Tests/Services/WeatherForeCastServiceTests.cs">
+    <Files>
+      <File FileName="WeatherForecastChallenge/Controllers/WeatherForecastController.cs" Line="14" Column="68" />
+      <File FileName="WeatherForecastChallenge.Shared/WeatherForeCastService.cs" Line="29" Column="21" />
+      <File FileName="WeatherForecastChallenge.Tests/Services/WeatherForeCastServiceTests.cs" Line="15" Column="69" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeatherForecastChallenge" expanded="True">
+            <Node name="WeatherForecastChallenge" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="WeatherForecastChallenge.Shared" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="WeatherForecastChallenge.Tests" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="WeatherForeCastServiceTests.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="WeatherForecastChallenge" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WeatherForecastChallenge PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
