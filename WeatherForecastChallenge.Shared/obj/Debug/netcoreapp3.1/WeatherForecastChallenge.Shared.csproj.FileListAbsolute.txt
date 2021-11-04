@@ -1,4 +1,0 @@
-/Users/bajang/Projects/github/WeatherForecastChallenge/WeatherForecastChallenge.Shared/obj/Debug/netcoreapp3.1/WeatherForecastChallenge.Shared.GeneratedMSBuildEditorConfig.editorconfig
-/Users/bajang/Projects/github/WeatherForecastChallenge/WeatherForecastChallenge.Shared/obj/Debug/netcoreapp3.1/WeatherForecastChallenge.Shared.AssemblyInfoInputs.cache
-/Users/bajang/Projects/github/WeatherForecastChallenge/WeatherForecastChallenge.Shared/obj/Debug/netcoreapp3.1/WeatherForecastChallenge.Shared.AssemblyInfo.cs
-/Users/bajang/Projects/github/WeatherForecastChallenge/WeatherForecastChallenge.Shared/obj/Debug/netcoreapp3.1/WeatherForecastChallenge.Shared.csproj.CoreCompileInputs.cache

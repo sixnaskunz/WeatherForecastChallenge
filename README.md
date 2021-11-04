@@ -9,18 +9,21 @@ API to get the weather forcasts
 
 # TODO:
 - Refactoring code.
-- Implement method filter with summary from GetWeatherForecasts service
+- Implement method filter with summary from GetWeatherForecasts service.
 - Add unit testing.
 
 ## You can:
-- re-organize the codebase;
-- create new classes/ modules /methods
-- modify existing code;
+- Re-structures the codebase.
+- Create new classes/ modules /methods.
+- Modify existing code.
 
 ## You can't:
-- change existing behaviors;
-- install more library than those already in the Nuget;
+- Change existing behaviors.
+- Install more library than those already in the NuGet.
 
 ## Bonus:
 - Use Logger to log somethings.
-- Validate input (summary)
+- Validate input of GetWeatherForecasts(summary) method.
+
+##Hint:
+- Good luck Have fun!!
